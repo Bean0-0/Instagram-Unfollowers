@@ -22,5 +22,9 @@ Get rid of the clowns that value a number over you
 ## Notes
 
 **_The more users you have to check, more time it will take_**
+**_You can speed it up by manually unfollowing in the app_**
 
 **_This script has been tested only on Chromium-based browsers_**
+
+
+
