@@ -13,7 +13,7 @@ Get rid of the clowns that value a number over you
 
 2. Log in into your Instagram account and open the developer console or (Ctrl+Shift+J(Windows) || ⌘+⌥+I (Mac os)) and paste the code.
 
-   <img src=".Screenshot 2023-06-24 at 7.00.26 PM.png" alt="Initial screen" />
+   <img src=".screenshot.png" alt="Initial screen" />
 
 4. Click "RUN" to start scanning for users who do not follow you back.
    
