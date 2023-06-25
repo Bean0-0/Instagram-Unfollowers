@@ -13,11 +13,13 @@ Get rid of the clowns that value a number over you
 
 2. Log in into your Instagram account and open the developer console or (Ctrl+Shift+J(Windows) || ⌘+⌥+I (Mac os)) and paste the code.
 
-3. Click "RUN" to start scanning for users who do not follow you back.
-   
-4. Once it finishes printing the users, you will be met with the following screen which will show you the results
+   <img src=".Screenshot 2023-06-24 at 7.00.26 PM.png" alt="Initial screen" />
 
-5. If you wish to un-follow any of these users, you can select 1 or more of them via the checkbox next to each user.
+4. Click "RUN" to start scanning for users who do not follow you back.
+   
+5. Once it finishes printing the users, you will be met with the following screen which will show you the results
+
+6. If you wish to un-follow any of these users, you can select 1 or more of them via the checkbox next to each user.
 
 ## Notes
 
